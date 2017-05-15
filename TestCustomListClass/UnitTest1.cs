@@ -244,29 +244,7 @@ namespace TestCustomListClass
             Assert.AreEqual(expectedValue, resultingValue);
         }
 
-        [TestMethod]
-        public void Plus_Overload_AddThreeLists()
-        {
-            CustomList<int> listA = new CustomList<int>() { 0, 1, 2 };
-            CustomList<int> listB = new CustomList<int>() { 3, 4, 5 };
-            CustomList<int> listC = new CustomList<int>() { 6, 7, 8 };
-            CustomList<int> aggregateList = new CustomList<int>();
-            CustomList<int> threesList = new CustomList<int>();
-
-            aggregateList = listA + listB + listC;
-            Console.Write(aggregateList);
-            int a = aggregateList[0];
-            int b = aggregateList[3];
-            int c = aggregateList[6];
-            threesList.Add(a);
-            threesList.Add(b);
-            threesList.Add(c);
-
-            int result = threesList[1];
-            int expected = 3;
-
-            Assert.AreEqual(result, expected);
-        }
+       
 
         [TestMethod]
         public void Minus_Overload_CheckValueAtIndex()
