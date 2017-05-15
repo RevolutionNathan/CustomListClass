@@ -1,0 +1,9 @@
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\obj\Debug\TestCustomListClass.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\bin\Debug\TestCustomListClass.dll
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\bin\Debug\TestCustomListClass.pdb
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\bin\Debug\CustomListCLass.exe
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\bin\Debug\CustomListCLass.pdb
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\obj\Debug\TestCustomListClass.dll
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\TestCustomListClass\obj\Debug\TestCustomListClass.pdb

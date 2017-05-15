@@ -1,0 +1,6 @@
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\CustomListCLass\bin\Debug\CustomListCLass.exe.config
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\CustomListCLass\bin\Debug\CustomListCLass.exe
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\CustomListCLass\bin\Debug\CustomListCLass.pdb
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\CustomListCLass\obj\Debug\CustomListCLass.exe
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\CustomListCLass\obj\Debug\CustomListCLass.pdb
+\\Mac\Home\Desktop\devCode\C#\CustomListCLass\CustomListCLass\obj\Debug\CustomListCLass.csprojResolveAssemblyReference.cache
